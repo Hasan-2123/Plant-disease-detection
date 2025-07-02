@@ -41,6 +41,7 @@ Optimizer: Adam
 Clone this repository:
 
 bash
+
 git clone [https://github.com/yourusername/plant-disease-detection.git](https://github.com/Hasan-2123/Plant-disease-detection.git)
 
 cd plant-disease-detection
@@ -70,4 +71,5 @@ Integrate with drone or field-based image acquisition systems
 Implement object detection to locate diseased areas
 
 🤝 Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request. For major changes, please discuss them first.
