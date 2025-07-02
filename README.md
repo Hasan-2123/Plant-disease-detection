@@ -42,7 +42,9 @@ Clone this repository:
 
 bash
 git clone [https://github.com/yourusername/plant-disease-detection.git](https://github.com/Hasan-2123/Plant-disease-detection.git)
+
 cd plant-disease-detection
+
 Install dependencies:
 
 bash
